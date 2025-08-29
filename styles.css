@@ -1,0 +1,91 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #000000;
+  color: white;
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  font-size: 18px;
+  background-color: #222; 
+}
+
+th, td {
+  border: 1px solid #fff;
+  padding: 8px;
+  text-align: center;
+  background-color: #00000064; 
+}
+
+.navbar li {
+  margin: 0 10px;
+}
+
+.navbar a {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #ffffff;
+  color: #000000;
+  border: none;
+  border-radius: 6px;
+  text-decoration: none;
+  font-size: 18px;
+  transition: background 0.2s, color 0.2s;
+  cursor: pointer;
+}
+
+.navbar a:hover {
+  background-color: #747474;
+  color: #ffffff;
+}
+
+.qb-bg {
+  background-image: url('https://www.pikpng.com/pngl/b/125-1254313_baltimore-ravens-logo-clipart.png');
+  background-repeat: no-repeat;
+  background-position: center bottom;   
+  background-size: 1000px auto;         
+  background-attachment: fixed;
+}
+
+.rb-bg {
+  background-image: url('https://www.pikpng.com/pngl/b/125-1254313_baltimore-ravens-logo-clipart.png');
+  background-repeat: no-repeat;
+  background-position: center bottom;   
+  background-size: 1000px auto;         
+  background-attachment: fixed;
+}
+
+.wr-bg {
+  background-image: url('https://mcdn.wallpapersafari.com/medium/95/56/lF9fTb.jpg');
+  background-size: 1700px auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+.Def-bg {
+  background-image: url('https://wallpapers.com/images/high/steelers-logo-m6jhv6a4ignk68il.jpg');
+  background-size: 2000px auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+.te-bg {
+  background-image: url('https://wallpapers.com/images/high/steelers-logo-m6jhv6a4ignk68il.jpg');
+  background-size: 2000px auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+}
+
+.intro-bg {
+  background-image: 
+    url('https://1000logos.net/wp-content/uploads/2017/05/NFL-logo.png'),
+    url('https://asset-cdn.schoology.com/system/files/imagecache/profile_reg/pictures/picture-4729464aff001716fe1efb0230f3626d_673f54a53efa7.jpg?1732203685');
+  background-size: 1100px auto, 500px auto;
+  background-repeat: no-repeat, no-repeat;
+  background-position: center bottom, right bottom;
+  background-attachment: fixed, fixed;
+}

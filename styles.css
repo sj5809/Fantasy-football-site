@@ -122,3 +122,11 @@ th, td {
     padding: 10px;
   }
 }
+
+#Contactinfo {
+  position: right;
+  width: 700px;
+  height: auto;
+  float: right;
+  margin: 0 0 10px 10px;
+}
